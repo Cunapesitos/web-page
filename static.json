@@ -1,4 +1,4 @@
 {
-  "root": "/",
+  "root": "public/",
   "clean_urls": false
 }
